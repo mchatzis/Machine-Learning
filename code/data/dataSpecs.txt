@@ -1,0 +1,3 @@
+Data file specification:
+The data used is the red-wine list from the repository
+The file has to be in .csv format.
