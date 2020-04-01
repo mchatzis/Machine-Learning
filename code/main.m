@@ -3,6 +3,7 @@
 %Running time: 20 seconds on an Intel i5-6200U with 4GB RAM
 %Calculations show that less than 2 GB of (Free)RAM systems may fail to run the
 %code especially the SVM part
+%(quite unlikely for modern computers)
 
 
 %BASED ON 10-FOLD VALIDATION
